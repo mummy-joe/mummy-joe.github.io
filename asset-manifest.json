@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mummyjoe.com/static/css/main.0db618cb.css",
+    "main.js": "/mummyjoe.com/static/js/main.13fe8988.js",
+    "static/js/787.e60fb404.chunk.js": "/mummyjoe.com/static/js/787.e60fb404.chunk.js",
+    "static/media/header.png": "/mummyjoe.com/static/media/header.6e26ac1cadb505bf6d4b.png",
+    "index.html": "/mummyjoe.com/index.html",
+    "main.0db618cb.css.map": "/mummyjoe.com/static/css/main.0db618cb.css.map",
+    "main.13fe8988.js.map": "/mummyjoe.com/static/js/main.13fe8988.js.map",
+    "787.e60fb404.chunk.js.map": "/mummyjoe.com/static/js/787.e60fb404.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db618cb.css",
+    "static/js/main.13fe8988.js"
+  ]
+}
